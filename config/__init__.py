@@ -1,0 +1,1 @@
+from .configs import (get_document_paths, _get_years)
